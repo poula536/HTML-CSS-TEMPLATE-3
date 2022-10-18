@@ -1577,6 +1577,7 @@ a{
     font-weight: bold;
     text-transform: capitalize;
     position: relative;
+    max-width: 100%;
 }
 
 .stats .container{
